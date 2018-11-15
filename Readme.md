@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/CustomFixedLayoutItemExample/Form1.cs) (VB: [Form1.vb](./VB/CustomFixedLayoutItemExample/Form1.vb))
+* [Program.cs](./CS/CustomFixedLayoutItemExample/Program.cs) (VB: [Program.vb](./VB/CustomFixedLayoutItemExample/Program.vb))
+<!-- default file list end -->
 # How to create a custom 'fixed' layout item 
 
 
